@@ -13,5 +13,5 @@ Qt Android相关技术分享
 
 QmlAndroidInputMethod: QmlAndroid输入法的隐藏和显示
 
-![](https://github.com/zhengtianzuo/QtAndroidExamples/blob/master/QmlAndroidInputMethod/show.png?raw=true)
+![](https://github.com/zhengtianzuo/QtAndroidExamples/blob/master/QmlAndroidInputMethod/show.jpg?raw=true)
 
