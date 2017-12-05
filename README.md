@@ -15,3 +15,16 @@ QmlAndroidInputMethod: QmlAndroid输入法的隐藏和显示
 
 ![](https://github.com/zhengtianzuo/QtAndroidExamples/blob/master/QmlAndroidInputMethod/show.jpg?raw=true)
 
+
+
+
+***
+#### **捐赠**
+#####捐赠名单:
+
+
+
+<img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/weixin.jpg?raw=true" width="50%" height="50%" /><img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/zhifubao.jpg?raw=true" width="50%" height="50%" />
+
+###### 觉得非常的内容还不错, 就请作者喝杯咖啡吧~~
+***
