@@ -26,5 +26,5 @@ QmlAndroidInputMethod: QmlAndroid输入法的隐藏和显示
 
 <img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/weixin.jpg?raw=true" width="50%" height="50%" /><img src="https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/zhifubao.jpg?raw=true" width="50%" height="50%" />
 
-###### 觉得非常的内容还不错, 就请作者喝杯咖啡吧~~
+###### 觉得分享的内容还不错, 就请作者喝杯咖啡吧~~
 ***
