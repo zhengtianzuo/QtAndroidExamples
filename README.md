@@ -15,7 +15,9 @@ QmlAndroidInputMethod: QmlAndroid输入法的隐藏和显示
 
 ![](https://github.com/zhengtianzuo/QtAndroidExamples/blob/master/QmlAndroidInputMethod/show.jpg?raw=true)
 
+QmlAndroidOrientation: QmlAndroid选择屏幕
 
+![](https://github.com/zhengtianzuo/QtAndroidExamples/blob/master/QmlAndroidOrientation/show.jpg?raw=true)
 
 
 ***

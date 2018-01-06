@@ -6,3 +6,4 @@
 
 TEMPLATE = subdirs
 SUBDIRS += QmlAndroidInputMethod
+SUBDIRS += QmlAndroidOrientation
