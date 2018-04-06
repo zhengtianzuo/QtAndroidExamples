@@ -26,6 +26,7 @@ QmlAndroidOrientation: QmlAndroid选择屏幕
 |主页|http://www.camelstudio.cn/
 |邮箱|camelsoft@163.com
 |博客|http://blog.csdn.net/zhengtianzuo06/
+|github|https://github.com/zhengtianzuo
 |QQ群|199672080|![](https://github.com/zhengtianzuo/zhengtianzuo.github.io/blob/master/qqgroup.jpg?raw=true)
 
 
